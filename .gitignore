@@ -63,3 +63,4 @@ fastlane/test_output
 
 # Remove .DS_Store
 .DS_Store
+*/*.DS_Store
